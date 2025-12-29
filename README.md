@@ -1,2 +1,20 @@
 # Volgagian
-Volgagian C++ RPG made with SFML
+Volgagian C++ RPG
+
+# Compile
+```
+mkdir build
+cd build\
+cmake ..
+cmake --build .
+```
+
+## Running
+
+It build the binaries in build/bin
+
+Run with:
+
+```
+./bin/Volgagian
+```
