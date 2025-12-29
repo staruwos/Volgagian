@@ -1,0 +1,14 @@
+[
+{
+  "directory": "/run/media/julio/Discalho/Projetos/Volgagian/build",
+  "command": "/usr/lib64/ccache/g++  -I/run/media/julio/Discalho/Projetos/Volgagian/src -I/run/media/julio/Discalho/Projetos/Volgagian/external -g -std=c++17 -o CMakeFiles/Volgagian.dir/src/ModelRenderer.cpp.o -c /run/media/julio/Discalho/Projetos/Volgagian/src/ModelRenderer.cpp",
+  "file": "/run/media/julio/Discalho/Projetos/Volgagian/src/ModelRenderer.cpp",
+  "output": "CMakeFiles/Volgagian.dir/src/ModelRenderer.cpp.o"
+},
+{
+  "directory": "/run/media/julio/Discalho/Projetos/Volgagian/build",
+  "command": "/usr/lib64/ccache/g++  -I/run/media/julio/Discalho/Projetos/Volgagian/src -I/run/media/julio/Discalho/Projetos/Volgagian/external -g -std=c++17 -o CMakeFiles/Volgagian.dir/src/main.cpp.o -c /run/media/julio/Discalho/Projetos/Volgagian/src/main.cpp",
+  "file": "/run/media/julio/Discalho/Projetos/Volgagian/src/main.cpp",
+  "output": "CMakeFiles/Volgagian.dir/src/main.cpp.o"
+}
+]

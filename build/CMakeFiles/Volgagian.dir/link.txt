@@ -1,0 +1,1 @@
+/usr/lib64/ccache/g++ -g -Wl,--dependency-file=CMakeFiles/Volgagian.dir/link.d CMakeFiles/Volgagian.dir/src/ModelRenderer.cpp.o CMakeFiles/Volgagian.dir/src/main.cpp.o -o bin/Volgagian  /usr/lib64/libglfw.so.3.4 /usr/lib64/libGLEW.so /usr/lib64/libGLX.so /usr/lib64/libOpenGL.so

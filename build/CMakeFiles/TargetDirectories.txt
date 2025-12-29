@@ -1,0 +1,3 @@
+/run/media/julio/Discalho/Projetos/Volgagian/build/CMakeFiles/Volgagian.dir
+/run/media/julio/Discalho/Projetos/Volgagian/build/CMakeFiles/edit_cache.dir
+/run/media/julio/Discalho/Projetos/Volgagian/build/CMakeFiles/rebuild_cache.dir
